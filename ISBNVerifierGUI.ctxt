@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ISBNVerifierGUI
+comment1.params=
+comment1.target=ISBNVerifierGUI()
+comment1.text=\r\n\ \ \ \ \ \ Constructor\r\n
+comment2.params=
+comment2.target=void\ buildISBNPanel()
+comment2.text=\ The\ buildISBNPanel\ method\ creates\ a\ panel\ containing\ the\r\nISBN\ prompt\ label\ and\ textfield
+comment3.params=
+comment3.target=void\ buildButtonPanel()
+comment3.text=\r\n\ \ \ \ \ \ The\ buildButtonPanel\ method\ creates\ a\ panel\ containing\r\n\ \ \ \ \ \ buttons.\r\n
+numComments=4
